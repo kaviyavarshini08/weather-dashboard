@@ -5,9 +5,14 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/SatyamPandey-07)
 [![GitHub](https://img.shields.io/badge/GitHub-SatyamPandey--07-blue.svg)](https://github.com/SatyamPandey-07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5.svg)](https://www.linkedin.com/in/satyam-pandey-0b246432a/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://satyampandey-07.github.io/weather-dashboard/)
+
+![Weather Dashboard Demo](https://img.shields.io/badge/Status-Live%20🚀-brightgreen)
 
 ## ✨ **Live Demo**
-Experience the magic: Auto-detects your location, displays current weather with animated backgrounds that change based on real weather conditions!
+🌐 **[Experience the Dashboard Live](https://satyampandey-07.github.io/weather-dashboard/)** 
+
+Auto-detects your location, displays current weather with animated backgrounds that change based on real weather conditions!
 
 ---
 
@@ -102,6 +107,9 @@ const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
 # Simply open index.html in your browser
 # Or use live server for development
 ```
+
+### 🌐 **Live Demo**
+**👉 [Try it now: https://satyampandey-07.github.io/weather-dashboard/](https://satyampandey-07.github.io/weather-dashboard/)**
 
 ---
 
