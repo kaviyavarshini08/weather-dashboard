@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Weather Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Oxygen:400,700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+</head>
+<body>
+  <div class="animated-bg"></div>
+  
+  <!-- Website Header -->
+  <header class="site-header">
+    <h1 class="site-title">
+      <span class="title-icon">🌦️</span>
+      Dynamic Weather Dashboard
+      <span class="title-subtitle">Real-time weather with futuristic design</span>
+    </h1>
+  </header>
+
+  <!-- Theme Switcher -->
+  <div class="theme-switcher">
+    <button id="theme-toggle" class="theme-btn">🌙</button>
+  </div>
+
+  <!-- Loading Spinner -->
+  <div id="loading-spinner" class="spinner-overlay">
+    <div class="spinner"></div>
+    <p>Loading weather data...</p>
+  </div>
+
+  <div class="hero">
+    <div class="weather-main">
+      <div class="weather-icon" id="weather-icon"></div>
+      <div class="weather-temp" id="weather-temp">--°</div>
+      <div class="weather-location" id="weather-location">Loading...</div>
+      
+      <!-- Weather Details -->
+      <div class="weather-details" id="weather-details">
+        <div class="detail-item">
+          <span class="detail-label">💧 Humidity</span>
+          <span class="detail-value" id="humidity">--%</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">💨 Wind Speed</span>
+          <span class="detail-value" id="wind-speed">-- m/s</span>
+        </div>
+        <div class="detail-item">
+          <span class="detail-label">🌡️ Pressure</span>
+          <span class="detail-value" id="pressure">-- hPa</span>
+        </div>
+      </div>
+    </div>
+    <div class="search-bar">
+      <input type="text" id="city-input" placeholder="Search city...">
+      <button id="search-btn">Search</button>
+    </div>
+    <div id="toast" class="toast"></div>
+    
+    <!-- Weather Alerts -->
+    <div id="weather-alerts" class="weather-alerts"></div>
+  </div>
+  
+  <!-- Hourly Forecast Section -->
+  <section class="hourly-forecast">
+    <h3>24-Hour Forecast</h3>
+    <div class="hourly-cards" id="hourly-cards"></div>
+  </section>
+
+  <section class="forecast">
+    <h2>5-Day Forecast</h2>
+    <div class="forecast-cards" id="forecast-cards"></div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-text">
+        <p>Made with <span class="heart">❤️</span> by <strong>Satyam Pandey</strong></p>
+        <p class="footer-subtitle">Bringing weather data to life with modern design</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/SatyamPandey-07" target="_blank" class="footer-link github-link">
+          <span class="link-icon">🔗</span>
+          GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/satyam-pandey-0b246432a/" target="_blank" class="footer-link linkedin-link">
+          <span class="link-icon">💼</span>
+          LinkedIn
+        </a>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 Dynamic Weather Dashboard. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
