@@ -2,9 +2,9 @@
 
 > A **futuristic, neon-themed weather dashboard** that brings weather data to life with stunning animations, dynamic backgrounds, and real-time updates.
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/SatyamPandey-07)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/kaviyavarshini08)
 [![GitHub](https://img.shields.io/badge/GitHub-SatyamPandey--07-blue.svg)](https://github.com/SatyamPandey-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5.svg)](https://www.linkedin.com/in/satyam-pandey-0b246432a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5.svg)](https://www.linkedin.com/in/kaviya-varshini-a7b399362)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://satyampandey-07.github.io/weather-dashboard/)
 [![Demo Video](https://img.shields.io/badge/Demo-Video-ff69b4.svg)](https://drive.google.com/file/d/1PMrtsUPc9C-4BQefhIWoEIyH8Z5E7UY3/view?usp=drive_link)
 
@@ -580,8 +580,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Satyam Pandey** - *Full Stack Developer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SatyamPandey-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satyam-pandey-0b246432a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kaviyavarshini08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaviya-varshini-a7b399362)
 
 ---
 
@@ -594,6 +594,6 @@ If you found this project helpful, please consider:
 
 ---
 
-**Made with ❤️ and lots of ☕ by Satyam Pandey**
+**Made with ❤️ and lots of ☕ by KAVIYA (CUTIE)**
 
 *Bringing weather data to life with modern design and seamless user experience.*
