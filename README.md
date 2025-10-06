@@ -578,7 +578,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Created By**
 
-**Satyam Pandey** - *Full Stack Developer*
+**KAVIYA** - *Full Stack Developer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kaviyavarshini08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaviya-varshini-a7b399362)
