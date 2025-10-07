@@ -3,7 +3,7 @@
 > A **futuristic, neon-themed weather dashboard** that brings weather data to life with stunning animations, dynamic backgrounds, and real-time updates.
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/kaviyavarshini08)
-[![GitHub](https://img.shields.io/badge/GitHub-SatyamPandey--07-blue.svg)](https://github.com/kaviyavarshini08)
+[![GitHub](https://img.shields.io/badge/GitHub-kaviyavarshini08-blue.svg)](https://github.com/kaviyavarshini08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5.svg)](https://www.linkedin.com/in/kaviya-varshini-a7b399362)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://kaviyavarshini08.github.io/weather-dashboard/)
 [![Demo Video](https://img.shields.io/badge/Demo-Video-ff69b4.svg)](https://drive.google.com/file/d/1PMrtsUPc9C-4BQefhIWoEIyH8Z5E7UY3/view?usp=drive_link)
