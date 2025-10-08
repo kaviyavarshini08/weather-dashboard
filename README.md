@@ -5,17 +5,17 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/kaviyavarshini08)
 [![GitHub](https://img.shields.io/badge/GitHub-kaviyavarshini08-blue.svg)](https://github.com/kaviyavarshini08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5.svg)](https://www.linkedin.com/in/kaviya-varshini-a7b399362)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://kaviyavarshini08.github.io/weather-dashboard/)
-[![Demo Video](https://img.shields.io/badge/Demo-Video-ff69b4.svg)](https://drive.google.com/file/d/1PMrtsUPc9C-4BQefhIWoEIyH8Z5E7UY3/view?usp=drive_link)
+
+
 
 ![Weather Dashboard Demo](https://img.shields.io/badge/Status-Live%20🚀-brightgreen)
 ![API Integration](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 ![Animations](https://img.shields.io/badge/Animations-GSAP%20%2B%20Lottie-purple)
 
 ## ✨ **Live Demo**
-🌐 **[Experience the Dashboard Live](https://satyampandey-07.github.io/weather-dashboard/)** 
+🌐 **[Experience the Dashboard Live](https://kaviyavarshini08.github.io/weather-dashboard/)** 
 
-🎥 **[Watch Live Demo Video](https://drive.google.com/file/d/1PMrtsUPc9C-4BQefhIWoEIyH8Z5E7UY3/view?usp=drive_link)** - See all features in action!
+
 
 Auto-detects your location, displays current weather with animated backgrounds that change based on real weather conditions!
 
@@ -236,7 +236,7 @@ const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
 ### 🌐 **Live Demo**
 **👉 [Try it now: https://kaviyavarshini08.github.io/weather-dashboard/](https://kaviyavarshini08.github.io/weather-dashboard/)**
 
-**📹 [Watch Demo Video: See All Features in Action](https://drive.google.com/file/d/1PMrtsUPc9C-4BQefhIWoEIyH8Z5E7UY3/view?usp=drive_link)**
+
 
 ---
 
